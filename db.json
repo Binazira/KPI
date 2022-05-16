@@ -1,0 +1,188 @@
+{
+  "students": [
+    {
+      "studentSurname": "Усенканова",
+      "studentName": "Биназир",
+      "studentPhoneNum": "0558-60-01-06",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 1
+    },
+    {
+      "studentSurname": "Рахманова",
+      "studentName": "Альбина",
+      "studentPhoneNum": "0555-55-55-55",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 2
+    },
+    {
+      "studentSurname": "Кунанбекова",
+      "studentName": "Тахмина",
+      "studentPhoneNum": "0701-24-65-65",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 3
+    },
+    {
+      "studentSurname": "Ивагов",
+      "studentName": "Айбат",
+      "studentPhoneNum": "0555-42-34-44",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 4
+    },
+    {
+      "studentSurname": "Султаналиев",
+      "studentName": "Канат",
+      "studentPhoneNum": "0555-12-34-56",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 5
+    },
+    {
+      "studentSurname": "Ибраимова",
+      "studentName": "Камила",
+      "studentPhoneNum": "0555-23-45-67",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 6
+    },
+    {
+      "studentSurname": "Замир уулу",
+      "studentName": "Улан",
+      "studentPhoneNum": "0555- 12-67-45",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 7
+    },
+    {
+      "studentSurname": "Исакова",
+      "studentName": "Илика",
+      "studentPhoneNum": "0555-43-56-78",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 8
+    },
+    {
+      "studentSurname": "Кадырбеков",
+      "studentName": "Айдар",
+      "studentPhoneNum": "0555-65-34-81",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 9
+    },
+    {
+      "studentSurname": "Мурзалиев",
+      "studentName": "Нурислам",
+      "studentPhoneNum": "0555-40-23-56",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 10
+    },
+    {
+      "studentSurname": "Аманова",
+      "studentName": "Мээрим",
+      "studentPhoneNum": "0555-35-87-43",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 11
+    },
+    {
+      "studentSurname": "Абдрахманова",
+      "studentName": "Алтынай",
+      "studentPhoneNum": "0555-61-39-01",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 12
+    },
+    {
+      "studentSurname": "Боркошева",
+      "studentName": "Нурайым",
+      "studentPhoneNum": "0555-54-30-04",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 13
+    },
+    {
+      "studentSurname": "Джумашев",
+      "studentName": "Айбек",
+      "studentPhoneNum": "0555-34-51-72",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 14
+    },
+    {
+      "studentSurname": "Ирсалиева",
+      "studentName": "Камила",
+      "studentPhoneNum": "0555-39-08-93",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 15
+    },
+    {
+      "studentSurname": "Ким ",
+      "studentName": "Екатерина",
+      "studentPhoneNum": "0555-23-45-62",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 16
+    },
+    {
+      "studentSurname": "Маматов",
+      "studentName": "Эмир",
+      "studentPhoneNum": "0555-10-39-56",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 17
+    },
+    {
+      "studentSurname": "Насиров",
+      "studentName": "Актилек",
+      "studentPhoneNum": "0555-45-00-22",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 18
+    },
+    {
+      "studentSurname": "Бакыт уулу",
+      "studentName": "Нурсултан",
+      "studentPhoneNum": "0555-65-42-78",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 19
+    },
+    {
+      "studentSurname": "Рахманова",
+      "studentName": "Тахмина",
+      "studentPhoneNum": "0555-54-56-01",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 20
+    },
+    {
+      "studentSurname": "Зобнин",
+      "studentName": "Борис",
+      "studentPhoneNum": "0555-62-43-31",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 21
+    },
+    {
+      "studentSurname": "Табалдиева",
+      "studentName": "Тахмина",
+      "studentPhoneNum": "0555-92-83-48",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 22
+    },
+    {
+      "studentSurname": "Мираж",
+      "studentName": "Нурайым",
+      "studentPhoneNum": "0555-32-93-12",
+      "studentWeekKpi": "100",
+      "studentMonthKpi": "100",
+      "id": 23
+    }
+  ]
+}
